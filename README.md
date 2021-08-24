@@ -17,9 +17,9 @@ python internet.py
 
 # ___Criador:___
 
-# ___Jankees Softwares___
+___Jankees Softwares___
 
-# Para reportar algum bug:
+# Para reportar algum bug ou algum assunto relacionado a contratação de meus serviços:
 
 ___Whatsapp: (67) 99831-8445___
 
