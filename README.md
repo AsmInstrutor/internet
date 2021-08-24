@@ -27,6 +27,8 @@ apt-get install git
 
 git clone https://github.com/AsmInstrutor/internet.git
 
+pip install speedtest
+
 cd internet
 
 python internet.py
