@@ -2,10 +2,15 @@
 Esse Software mede a velocidade de Download e de Upload de sua rede, trazendo as informações diretamente no seu terminal, o projeto foi criado em Python e possui o uso simples e fácil!
 
 # Instalar:
+
+# TERMUX:
+
 ```bash
 pkg install python
 
 pip install speedtest
+
+apt-get install git
 
 git clone https://github.com/AsmInstrutor/internet.git
 
@@ -13,6 +18,18 @@ cd internet
 
 python internet.py
 
+```
+
+# LINUX:
+
+```bash
+apt-get install git
+
+git clone https://github.com/AsmInstrutor/internet.git
+
+cd internet
+
+python internet.py
 ```
 
 # ___Criador:___
