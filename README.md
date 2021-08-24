@@ -7,7 +7,7 @@ pkg install python
 
 pip install speedtest
 
-git clone
+git clone https://github.com/AsmInstrutor/internet.git
 
 cd internet
 
