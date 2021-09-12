@@ -16,9 +16,9 @@
    ___Agora que instalamos tudo o que necessitamos, vamos clonar o repositório!___
    
     cd $HOME
-    git clone 
+    git clone https://github.com/AsmInstrutor/internet.git
     cd internet
-    python
+    python internet.py
     
    ___Agora que já fez a clonagem e ja rodou o projeto, seus dados da velocidade da sua internet será mostrado em seu terminal!___
    
