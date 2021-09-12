@@ -1,9 +1,11 @@
-# MEDIDOR DE INTERNET:
-Esse Software mede a velocidade de Download e de Upload de sua rede, trazendo as informações diretamente no seu terminal, o projeto foi criado em Python e possui o uso simples e fácil!
+# 👋Hi, i am Jankees Softwares!
 
-# Instalar:
+#Medidor de velocidade da internet!
+   - Esse Software mede a velocidade de Download e de Upload de sua rede, trazendo as informações diretamente no seu terminal, o projeto foi criado em Python e possui o uso simples e fácil!
 
-# TERMUX:
+# Modo de uso:
+
+   ___Primeiro vamos instalar aa dependências:
 
 ```bash
 pkg install python
